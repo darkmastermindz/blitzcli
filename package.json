@@ -1,6 +1,6 @@
 {
   "name": "blitzcli",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "BlitzCLI is a bespoke and experimental command line interface to help run commands and automations",
   "main": "index.js",
   "bin": {
