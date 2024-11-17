@@ -6,7 +6,7 @@ I'm getting older in my career, I use a lot of cool stuff, and can't remember al
 
 ### What is this?:
 
-- BlitzCLI is a experimental command line interface to help run commands and automations I use a lot; therefore, it may not work on your machine. 
+- BlitzCLI is a bespoke and experimental command line interface to help run commands and automations I use a lot; therefore, it may not work on your machine. 
 - It's build on NodeJS and published as a public package.
 - The focus audience is on developer experience and utilities for superusers that may not have prior development experience.
 
