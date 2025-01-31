@@ -30,7 +30,7 @@
   "homepage": "https://github.com/darkmastermindz/blitzcli#readme",
   "dependencies": {
     "chalk": "^5.3.0",
-    "commander": "^12.1.0",
+    "commander": "^13.1.0",
     "inquirer": "^12.1.0",
     "shelljs": "^0.8.5"
   }
